@@ -138,7 +138,7 @@ django-url-filter==0.3.12
 celery==4.2
 markdown==2.6.9
 
-notebook==4.4.1
+notebook==6.1.5
 django-simple-captcha
 
 # Do not remove below lines
