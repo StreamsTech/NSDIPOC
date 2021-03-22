@@ -74,7 +74,7 @@ idna==2.6
 ipaddress==1.0.18
 jdcal==1.3
 kombu==4.1.0
-lxml==3.6.4
+lxml==4.6.3
 mccabe==0.5.2
 mock==2.0.0
 MultipartPostHandler==0.1.0
