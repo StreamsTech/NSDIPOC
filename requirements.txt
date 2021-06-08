@@ -88,7 +88,7 @@ Paver==1.2.4
 pbr==3.1.1
 #pdb==0.1
 pep8==1.6.2
-Pillow==3.3.1
+Pillow==8.2.0
 Pinax==0.9a2
 pinax-notifications==4.0.0
 pinax-theme-bootstrap==3.0a11
